@@ -19,6 +19,7 @@ Personal Spaces:
 * [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game))
 * [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
 * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
+* [The Movies](https://en.m.wikipedia.org/wiki/The_Movies_(video_game)) 
 * [Zoo Tycoon](https://en.wikipedia.org/wiki/Zoo_Tycoon)
 
 #### Note
