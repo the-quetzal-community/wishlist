@@ -1,6 +1,6 @@
 These are creative spaces that are either proprietary, or closed bubbles 
-(that lack the ability to export) we would like to see, either an alternative
-for, or substantially released under, an [Approved License](https://the.quetzal-community/approved-licenses)
+(that lack the ability to export) and that we would like to see, either an alternative
+for, or a substantial release under, an [Approved License](https://the.quetzal-community/approved-licenses)
 with the ability for creators to share their creations and retain free usage 
 rights to their work.
 
