@@ -4,11 +4,17 @@ for, or substantially released under, an [Approved License](https://the.quetzal-
 with the ability for creators to share their creations and retain free usage 
 rights to their work.
 
+If you discover any alternatives, or are working on them, please let us know!
+
+Shared Spaces:
 * [Creature Creator](https://github.com/daniellochner/creature-creator)
-* [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game))
 * [Little Big Planet](https://en.wikipedia.org/wiki/LittleBigPlanet)
-* [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
 * [The Mirror](https://www.themirror.space/)
+* [VS Code Live Share](https://github.com/microsoft/live-share)
+
+Personal Spaces:
+* [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game))
+* [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
 * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
 * [Zoo Tycoon](https://en.wikipedia.org/wiki/Zoo_Tycoon)
 
