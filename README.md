@@ -10,6 +10,7 @@ Shared Spaces:
 * [Creature Creator](https://github.com/daniellochner/creature-creator)
 * [Besiege](https://en.wikipedia.org/wiki/Besiege_(video_game))
 * [Little Big Planet](https://en.wikipedia.org/wiki/LittleBigPlanet)
+* [Tabletop Simulator](https://en.wikipedia.org/wiki/Tabletop_Simulator)
 * [The Mirror](https://www.themirror.space/)
 * [VS Code Live Share](https://github.com/microsoft/live-share)
 
