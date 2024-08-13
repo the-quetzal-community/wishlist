@@ -6,14 +6,14 @@ rights to their work.
 
 If you discover any alternatives, or are working on them, please let us know!
 
-Shared Spaces:
+Community Spaces:
 * [Creature Creator](https://github.com/daniellochner/creature-creator)
 * [Besiege](https://en.wikipedia.org/wiki/Besiege_(video_game))
 * [Little Big Planet](https://en.wikipedia.org/wiki/LittleBigPlanet)
 * [Tabletop Simulator](https://en.wikipedia.org/wiki/Tabletop_Simulator)
 * [VS Code Live Share](https://github.com/microsoft/live-share)
 
-Personal Spaces:
+Creative Spaces:
 * [AssetForge](https://kenney.nl/tools/asset-forge)
 * [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game))
 * [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
