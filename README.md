@@ -10,9 +10,7 @@ Community Spaces:
 * [Creature Creator](https://github.com/daniellochner/creature-creator)
 * [Besiege](https://en.wikipedia.org/wiki/Besiege_(video_game))
 * [Little Big Planet](https://en.wikipedia.org/wiki/LittleBigPlanet)
-* [Tabletop Simulator](https://en.wikipedia.org/wiki/Tabletop_Simulator)
-* [VS Code Live Share](https://github.com/microsoft/live-share)
-
+  
 Creative Spaces:
 * [AssetForge](https://kenney.nl/tools/asset-forge)
 * [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game))
